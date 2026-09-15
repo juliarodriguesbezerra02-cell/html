@@ -1,0 +1,27 @@
+section{
+    display: flex;
+    justify-content: center;
+}
+
+.fundo {
+    background-color: grey;
+}
+.main{
+    background-color: rgb(185, 170, 170);
+}
+
+li {
+    margin: 10px;
+}
+nav {
+    style-type: none;
+    display: flex;
+    justify-content: center;
+}
+
+.footer {
+    text-align: center;
+}
+a {
+    text-decoration: none;
+}
